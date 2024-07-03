@@ -1,9 +1,5 @@
 {
-  "variants": {
-    "normal": [
-      {
-        "model": "red_sand"
-      }
-    ]
-  }
+    "variants": {
+        "normal": { "model": "red_sand" }
+    }
 }
