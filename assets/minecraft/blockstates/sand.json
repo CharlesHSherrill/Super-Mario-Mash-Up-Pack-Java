@@ -1,9 +1,5 @@
 {
-  "variants": {
-    "normal": [
-      {
-        "model": "sand"
-      }
-    ]
-  }
+    "variants": {
+        "normal": { "model": "sand" }
+    }
 }

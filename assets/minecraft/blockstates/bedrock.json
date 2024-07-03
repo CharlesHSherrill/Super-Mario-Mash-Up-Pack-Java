@@ -1,9 +1,5 @@
 {
-  "variants": {
-    "normal": [
-      {
-        "model": "bedrock"
-      }
-    ]
-  }
+    "variants": {
+        "normal": { "model": "bedrock" }
+    }
 }
