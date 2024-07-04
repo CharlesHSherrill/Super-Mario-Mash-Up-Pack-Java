@@ -1,0 +1,18 @@
+Disc #		Old Name	New Name				Redstone Power Level
+1		chirp		Super Mario Galaxy			4
+2		blocks		Jump Up, Super Star!			3
+3		13		Rosalina in the Observatory 3				1
+4		far		Piranha Plant's Lullaby (Piano)		5
+5		cat		Secret Course				2
+6		ward		Theme of Super Mario Galaxy 2		10
+7		wait		Peach's Castle				12
+8		mall		Gusty Garden Galaxy			6
+9		mellohi		Credits - Mario Kart 8 Deluxe		7
+10		strad		World Star				9
+11		11		Break Free (Lead the Way)		11
+12		stal		Grand Finale				8
+13		otherside	Do the Mario! (German Ver.)		14
+14		pigstep		Bowser's Castle				13 [J]	15 [BE]
+16		5		Stage 1 - Luigi's Ghost Mansion		5
+				- Nintendo Land
+17		Relic		Sillyfish Chuck Challenge		15
