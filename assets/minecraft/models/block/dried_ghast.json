@@ -1,0 +1,50 @@
+{
+  "parent": "block/block",
+  "display": {
+    "gui": {
+      "rotation": [ 30, 225, 0 ],
+      "translation": [ 0.4, 1.6, 0 ],
+      "scale": [ 0.8, 0.8, 0.8 ]
+    }
+  },
+  "elements": [
+    {
+      "name": "body",
+      "from": [ 3, 0, 3 ],
+      "to": [ 13, 10, 13 ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [ 11, 0, 11 ]
+      },
+      "faces": {
+        "north": {
+          "uv": [ 0, 0, 10, 10 ],
+          "texture": "#north"
+        },
+        "east": {
+          "uv": [ 0, 0, 10, 10 ],
+          "texture": "#east"
+        },
+        "south": {
+          "uv": [ 0, 0, 10, 10 ],
+          "texture": "#south"
+        },
+        "west": {
+          "uv": [ 0, 0, 10, 10 ],
+          "texture": "#west"
+        },
+        "up": {
+          "uv": [ 0, 0, 10, 10 ],
+          "rotation": 180,
+          "texture": "#top"
+        },
+        "down": {
+          "uv": [ 10, 0, 0, 10 ],
+          "texture": "#bottom",
+          "cullface": "down"
+        }
+      }
+    }
+  ]
+}
