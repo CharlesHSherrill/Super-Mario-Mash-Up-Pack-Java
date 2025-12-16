@@ -19,3 +19,5 @@ Disc #		Old Name	New Name				Redstone Power Level
 18		Precipice	Battle - Shadow Queen			13
 19		Creator		Fossil Falls				12
 20		Creator (MB)	Fossil Falls (Music Box)		11
+21		Lava Chicken	Peaches - The Super Mario		9
+				Bros. Movie
