@@ -8,6 +8,8 @@ Disc #		Old Name	New Name				Redstone Power Level
 7		wait		Peach's Castle				12
 8		mall		Gusty Garden Galaxy			6
 9		mellohi		Credits - Mario Kart 8 Deluxe		7
+9		Lava Chicken	Peaches - The Super Mario		9
+				Bros. Movie
 10		strad		World Star				9
 11		11		Break Free (Lead the Way)		11
 12		stal		Grand Finale				8
@@ -19,5 +21,3 @@ Disc #		Old Name	New Name				Redstone Power Level
 18		Precipice	Battle - Shadow Queen			13
 19		Creator		Fossil Falls				12
 20		Creator (MB)	Fossil Falls (Music Box)		11
-21		Lava Chicken	Peaches - The Super Mario		9
-				Bros. Movie
