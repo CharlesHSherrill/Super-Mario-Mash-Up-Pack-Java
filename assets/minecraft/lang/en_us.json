@@ -89,7 +89,7 @@
   "music.game.nether.concrete_halls": "Lethal Lava Land - Super Mario 64",
   "music.game.nether.crimson_forest.chrysopoeia": "A Boss Approaches - Super Mario 3D World",
   "music.game.nether.dead_voxel": "Bowser's Road - Super Mario 64'",
-  "music.game.nether.nether_wastes.rubedo": "Decisive Battleground DX - Mario & Luigi Superstar Saga + Bowser's Minions'",
+  "music.game.nether.nether_wastes.rubedo": "Decisive Battleground DX - Mario & Luigi Superstar Saga + Bowser's Minions",
   "music.game.nether.soulsand_valley.so_below": "Hazy Maze Cave - Super Mario 64",
   "music.game.nether.warmth": "Bowser's Theme - Super Mario 64'",
   "music.game.one_more_day": "Crisp Climb Castle - Super Mario 3D World + Bowser's Fury",
@@ -113,5 +113,9 @@
   "music.menu.beginning_2": "File Select - Super Mario Galaxy",
   "music.menu.floating_trees": "Title Screen - Super Mario Odyssey",
   "music.menu.moog_city_2": "Overture - Super Mario Galaxy",
-  "music.menu.mutation": "File Select - Super Mario 64"
+  "music.menu.mutation": "File Select - Super Mario 64",
+  "music.game.home": "Raynforest Island - Mario & Luigi Brothership",
+  "music.game.memories": "Daisy Hills (Mario Kart 7) - Mario Kart World",
+  "music.game.nightly": "Hoohoo Mountaintop DX - Mario & Luigi: Superstar Saga + Bowser's Minions",
+  "music.game.shores": "Floro Sapien Caverns - Super Paper Mario"
 }
