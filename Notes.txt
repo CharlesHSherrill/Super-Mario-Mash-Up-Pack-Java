@@ -1,6 +1,0 @@
--Fix Textures
-	*Torchflower
-	*Coco Bean Final Stage
-	*Phantom
-
--Fix Music
