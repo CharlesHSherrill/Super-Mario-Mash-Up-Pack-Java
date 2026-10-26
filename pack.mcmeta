@@ -1,7 +1,13 @@
 {
   "pack": {
-    "min_format": [97, 1],
-    "max_format": [97, 1],
-    "description": "Super Mario Mashup Pack: Minecraft 1.26.3"
+    "description": "Super Mario Mash-Up Pack: Minecraft Java 26.2",
+    "min_format": [
+      88,
+      0
+    ],
+    "max_format": [
+      88,
+      0
+    ]
   }
 }
