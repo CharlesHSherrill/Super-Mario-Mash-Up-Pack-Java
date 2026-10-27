@@ -1,12 +1,12 @@
 {
   "pack": {
-    "description": "Super Mario Mash-Up Pack: Minecraft Java 26.2",
+    "description": "Super Mario Mash-Up Pack: Minecraft Java 26.1-26.1.2",
     "min_format": [
-      88,
+      84,
       0
     ],
     "max_format": [
-      88,
+      84,
       0
     ]
   }
