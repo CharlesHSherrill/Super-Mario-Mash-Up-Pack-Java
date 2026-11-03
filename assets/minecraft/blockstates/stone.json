@@ -1,9 +1,7 @@
 {
   "variants": {
-    "": [
-      {
-        "model": "minecraft:block/stone"
-      }
-    ]
+    "normal": {
+      "model": "stone"
+    }
   }
 }

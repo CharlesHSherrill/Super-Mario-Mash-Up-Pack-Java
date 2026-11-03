@@ -1,12 +1,10 @@
 {
   "variants": {
-    "snowy=false": [
-      {
-        "model": "minecraft:block/mycelium"
-      }
-    ],
+    "snowy=false": {
+      "model": "mycelium"
+    },
     "snowy=true": {
-      "model": "minecraft:block/grass_block_snow"
+      "model": "grass_snowed"
     }
   }
 }
